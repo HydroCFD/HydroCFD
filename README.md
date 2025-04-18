@@ -1,9 +1,8 @@
 # Hi, I'm Danial Goodarzi
 
-🎓 **Ph.D. Candidate in Civil Engineering – Environmental Hydraulics**  
-🌍 **University of Ottawa, Canada**  
-🔬 **Researcher | CFD Modeler | Experimentalist | Machine Learning Enthusiast**  
-📍 Based in Ottawa, Canada
+**Ph.D. student in Civil Engineering – Environmental Hydraulics**  
+**University of Ottawa, Canada**  
+**Researcher | CFD Modeler | Experimentalist | Machine Learning Enthusiast**
 
 ## About Me
 
@@ -24,16 +23,8 @@ I bring together advanced techniques like:
 
 ## Skills & Tools
 
-### Simulation & Modeling
-
 - **OpenFOAM**, **NEK5000**, **CFD-DEM**, **Gmsh**, **ParaView**
-
-### Programming & Analysis
-
 - **Python**, **MATLAB**, **C++**, **PyVista**, **NumPy**, **scikit-learn**
-
-### Experimentation
-
 - **Laser-Induced Fluorescence (LIF)**
 - **Particle Image Velocimetry (PIV)**
 
