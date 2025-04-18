@@ -3,42 +3,28 @@
 🎓 **Ph.D. Candidate in Civil Engineering – Environmental Hydraulics**  
 🌍 **University of Ottawa, Canada**  
 🔬 **Researcher | CFD Modeler | Experimentalist | Machine Learning Enthusiast**  
-📍 Based in Ottawa, Canada | 🌊 Collaborating with the **National Research Council of Canada (NRC)**
+📍 Based in Ottawa, Canada
 
 ---
 
 ## 🔬 About Me
 
-I am a researcher specializing in **fluid mechanics, environmental hydraulics, and computational modeling**, with strong expertise in both experimental and numerical approaches. My PhD research focuses on **thermal and saline buoyant jets**, exploring the interaction of environmental discharges with ambient waters using **high-fidelity CFD simulations** and **laser-based laboratory experiments**.
+I am a researcher specializing in **fluid mechanics, environmental hydraulics, and computational modeling**, with strong expertise in both experimental and numerical approaches. My PhD research focuses on **thermal and saline buoyant jets**, exploring the interaction of environmental discharges with ambient waters using **high-fidelity CFD simulations** and **PIV/LIF experiments**.
 
 I bring together advanced techniques like:
 
-- ✅ **Large Eddy Simulation (LES)** and **Direct Numerical Simulation (DNS)**
+- ✅ **Direct Numerical Simulation (DNS)** and **Large Eddy Simulation (LES)**
 - ✅ **Laser-Induced Fluorescence (LIF)** and **Particle Image Velocimetry (PIV)**
 - ✅ **Machine Learning** for developing surrogate and multi-fidelity models
-- ✅ **Multi-physics CFD modeling** using **OpenFOAM** and **CFDEM**
 
 ---
 
 ## 🧠 Current Research Projects
 
-- 🌊 **Landslide-Generated Waves**: Numerical modeling of wave generation and propagation due to landslides (with NRC Canada)
-- 🏞️ **River Scouring Around Infrastructure**: Using hybrid CFD-particle methods (CFDEM) to predict local scour
-- 🌐 **Surrogate Modeling for Environmental Flows**: CNNs and Gaussian Processes to reduce the cost of LES
 - 💧 **Desalination Discharge Simulation**: LES modeling of inclined dense jets in stratified crossflow (funded by NSERC)
-
----
-
-## 📝 Publications & Milestones
-
-📄 In the next **6 months**, I will have:
-
-- ✅ **3 peer-reviewed papers accepted**
-- 📨 **2 more manuscripts submitted** for publication
-
-📚 Recent Publication:
-
-- Goodarzi, D. (2024). _Comment on “Venturi nozzles for desalination brine discharges”_, Desalination. [DOI link]
+- 🌐 **Surrogate Modeling for Environmental Flows**: CNNs and Gaussian Processes to reduce the cost of LES
+- 🏞️ **River Scouring Around Infrastructure**: Using hybrid CFD-particle methods (CFDEM) to predict local scour
+- 🌊 **Landslide-Generated Waves**: Numerical modeling of wave generation and propagation due to landslides
 
 ---
 
@@ -46,7 +32,7 @@ I bring together advanced techniques like:
 
 ### Simulation & Modeling
 
-- **OpenFOAM**, **CFDEM**, **Gmsh**, **ParaView**, **Tecplot**
+- **OpenFOAM**, **NEK5000**, **CFD-DEM**, **Gmsh**, **ParaView**
 
 ### Programming & Analysis
 
@@ -56,14 +42,6 @@ I bring together advanced techniques like:
 
 - **Laser-Induced Fluorescence (LIF)**
 - **Particle Image Velocimetry (PIV)**
-- High-resolution lab image processing and concentration field reconstruction
-
----
-
-## 🤝 Collaborations
-
-- 🏢 **National Research Council of Canada (NRC)** – Part-time researcher on wave modeling and hazard analysis
-- 👥 Supervised/co-supervised students and collaborated across academic-industry projects
 
 ---
 
@@ -71,7 +49,7 @@ I bring together advanced techniques like:
 
 Here, you'll find:
 
-- 📂 Repositories of LES and RANS simulations of environmental jets
+- 📂 Repositories of DNS, LES and RANS simulations of environmental discharges
 - 📊 Post-processing scripts for CFD and experimental data
 - 📸 Experimental image datasets (LIF) and ML model training scripts
 - 🧪 Ongoing development of physics-informed ML models
