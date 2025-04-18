@@ -10,10 +10,10 @@ My research methodology draws upon the following tools and techniques:
 
 ## Current Research Projects
 
-- **Numerical and physical modeling of Desalination Discharges**: LES modeling of inclined dense jets in stratified crossflow
-- **Surrogate Modeling for Environmental Flows**: Gaussian Processes to reduce the cost of LES
-- **River Scouring Around Infrastructure**: Using CFD-DEM method to predict local scouring
-- **Landslide-Generated Waves**: Numerical modeling of wave generation and propagation due to landslides
+- **Numerical and physical modeling of Desalination Discharges**
+- **Surrogate Modeling for Environmental Flows**
+- **River Scouring Around Infrastructure**
+- **Landslide-Generated Waves**
 
 ## Skills & Tools
 
