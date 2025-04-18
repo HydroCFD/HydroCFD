@@ -16,9 +16,9 @@ I bring together advanced techniques like:
 
 ## Current Research Projects
 
-- **Desalination Discharge Simulation**: LES modeling of inclined dense jets in stratified crossflow (funded by NSERC)
-- **Surrogate Modeling for Environmental Flows**: CNNs and Gaussian Processes to reduce the cost of LES
-- **River Scouring Around Infrastructure**: Using hybrid CFD-particle methods (CFDEM) to predict local scour
+- **Numerical and physical modeling of Desalination Discharges**: LES modeling of inclined dense jets in stratified crossflow (funded by NSERC)
+- **Surrogate Modeling for Environmental Flows**: Gaussian Processes to reduce the cost of LES
+- **River Scouring Around Infrastructure**: Using hybrid CFD-DEM methods to predict local scouring
 - **Landslide-Generated Waves**: Numerical modeling of wave generation and propagation due to landslides
 
 ## Skills & Tools
