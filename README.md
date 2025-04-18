@@ -1,11 +1,5 @@
 # Hi, I'm Danial Goodarzi
 
-**Ph.D. student in Civil Engineering – Environmental Hydraulics**  
-**University of Ottawa, Canada**  
-**Researcher | CFD Modeler | Experimentalist | Machine Learning Enthusiast**
-
-## About Me
-
 I am a researcher specializing in **fluid mechanics, environmental hydraulics, and computational modeling**, with strong expertise in both experimental and numerical approaches. My PhD research focuses on **thermal and saline buoyant jets**, exploring the interaction of environmental discharges with ambient waters using **high-fidelity CFD simulations** and **PIV/LIF experiments**.
 
 I bring together advanced techniques like:
@@ -16,7 +10,7 @@ I bring together advanced techniques like:
 
 ## Current Research Projects
 
-- **Numerical and physical modeling of Desalination Discharges**: LES modeling of inclined dense jets in stratified crossflow (funded by NSERC)
+- **Numerical and physical modeling of Desalination Discharges**: LES modeling of inclined dense jets in stratified crossflow
 - **Surrogate Modeling for Environmental Flows**: Gaussian Processes to reduce the cost of LES
 - **River Scouring Around Infrastructure**: Using hybrid CFD-DEM methods to predict local scouring
 - **Landslide-Generated Waves**: Numerical modeling of wave generation and propagation due to landslides
