@@ -1,8 +1,8 @@
 # Hi, I'm Danial Goodarzi
 
-I am a researcher specializing in **fluid mechanics, environmental hydraulics, and computational modeling**, with strong expertise in both experimental and numerical approaches. My PhD research focuses on **thermal and saline buoyant jets**, exploring the interaction of environmental discharges with ambient waters using **high-fidelity CFD simulations** and **PIV/LIF experiments**.
+I am a researcher specializing in **fluid mechanics, environmental hydraulics, and computational modeling**, with expertise in both experimental and numerical approaches. My PhD research focuses on **thermal and saline buoyant jets**, exploring the interaction of environmental discharges with ambient.
 
-I bring together advanced techniques like:
+My research methodology draws upon the following tools and techniques:
 
 - **Direct Numerical Simulation (DNS)** and **Large Eddy Simulation (LES)**
 - **Laser-Induced Fluorescence (LIF)** and **Particle Image Velocimetry (PIV)**
@@ -12,7 +12,7 @@ I bring together advanced techniques like:
 
 - **Numerical and physical modeling of Desalination Discharges**: LES modeling of inclined dense jets in stratified crossflow
 - **Surrogate Modeling for Environmental Flows**: Gaussian Processes to reduce the cost of LES
-- **River Scouring Around Infrastructure**: Using hybrid CFD-DEM methods to predict local scouring
+- **River Scouring Around Infrastructure**: Using CFD-DEM method to predict local scouring
 - **Landslide-Generated Waves**: Numerical modeling of wave generation and propagation due to landslides
 
 ## Skills & Tools
@@ -21,9 +21,3 @@ I bring together advanced techniques like:
 - **Python**, **MATLAB**, **C++**, **PyVista**, **NumPy**, **scikit-learn**
 - **Laser-Induced Fluorescence (LIF)**
 - **Particle Image Velocimetry (PIV)**
-
-## 📫 Contact Me
-
-- Email: [danial.goodarzi@uottawa.ca](mailto:danial.goodarzi@uottawa.ca)
-- LinkedIn: [linkedin.com/in/danialgoodarzi](https://www.linkedin.com/in/danialgoodarzi)
-- GitHub: [website](https://hydrocfd.github.io/)
