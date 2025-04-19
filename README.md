@@ -14,7 +14,7 @@ I am a researcher specializing in **fluid mechanics, environmental hydraulics, a
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <em>Figure: Cross section of q-criterion isosurfaces at (q = 0.01) (left) and velocity magnitude field for Fr = 15 (right).</em>
+        <em>Figure: Cross section of q-criterion isosurfaces at (q = 0.01) (left) and velocity magnitude field (right).</em>
       </td>
     </tr>
   </table>
@@ -25,6 +25,18 @@ My research methodology draws upon the following tools and techniques:
 - **Direct Numerical Simulation (DNS)** and **Large Eddy Simulation (LES)**
 - **Laser-Induced Fluorescence (LIF)** and **Particle Image Velocimetry (PIV)**
 - **Machine Learning** for developing surrogate and multi-fidelity models
+
+## 🔗 Featured Repositories
+
+- [buoyant_jet](https://github.com/HydroCFD/buoyant_jet):  
+  A collection of research materials from my PhD work on thermal and saline buoyant jets. Includes:
+  - Gmsh mesh generation scripts
+  - OpenFOAM case setups for RANS and LES
+  - NEK5000 case setups for DNS
+  - Python post-processing scripts
+  - Experimental datasets and visualizations codes
+
+Explore more of my work in the repository above — contributions welcome!
 
 ## Current Research Projects
 
