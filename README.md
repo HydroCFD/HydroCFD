@@ -20,3 +20,9 @@ My research methodology draws upon the following tools and techniques:
 - **OpenFOAM**, **NEK5000**, **CFD-DEM**, **Gmsh**, **ParaView**
 - **Laser-Induced Fluorescence (LIF)** and **Particle Image Velocimetry (PIV)**
 - **Python**, **MATLAB**, **C++**, **PyVista**, **NumPy**, **scikit-learn**
+
+<p align="center">
+  <img src="images/DNS.jpg" alt="Alt Text" width="800"/>
+  <br>
+  <em>Figure: Scalar field of a jet.</em>
+</p>
