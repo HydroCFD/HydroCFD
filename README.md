@@ -24,5 +24,5 @@ My research methodology draws upon the following tools and techniques:
 <p align="center">
   <img src="images/DNS.jpg" alt="Alt Text" width="800"/>
   <br>
-  <em>Figure: Scalar field of a jet.</em>
+  <em>Figure: Cross section of q-criterion isosurfaces at q = 0.01.</em>
 </p>
