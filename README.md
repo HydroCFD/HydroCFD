@@ -6,7 +6,7 @@ I am a researcher specializing in **fluid mechanics, environmental hydraulics, a
   <table>
     <tr>
       <td align="center">
-        <img src="images/DNS1.jpeg" alt="DNS Isosurfaces" width="400"/>
+        <img src="images/DNS1.jpeg" alt="DNS Isosurfaces" width="500"/>
       </td>
       <td align="center">
         <img src="images/temp_fr15.jpg" alt="Velocity Field Fr=15" width="300"/>
