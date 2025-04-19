@@ -2,6 +2,12 @@
 
 I am a researcher specializing in **fluid mechanics, environmental hydraulics, and computational modeling**, with expertise in both experimental and numerical approaches. My PhD research focuses on **thermal and saline buoyant jets**, exploring the interaction of environmental discharges with ambient.
 
+<p align="center">
+  <img src="images/DNS.jpg" alt="Alt Text" width="800"/>
+  <br>
+  <em>Figure: Cross section of q-criterion isosurfaces at q = 0.01.</em>
+</p>
+
 My research methodology draws upon the following tools and techniques:
 
 - **Direct Numerical Simulation (DNS)** and **Large Eddy Simulation (LES)**
@@ -20,9 +26,3 @@ My research methodology draws upon the following tools and techniques:
 - **OpenFOAM**, **NEK5000**, **CFD-DEM**, **Gmsh**, **ParaView**
 - **Laser-Induced Fluorescence (LIF)** and **Particle Image Velocimetry (PIV)**
 - **Python**, **MATLAB**, **C++**, **PyVista**, **NumPy**, **scikit-learn**
-
-<p align="center">
-  <img src="images/DNS.jpg" alt="Alt Text" width="800"/>
-  <br>
-  <em>Figure: Cross section of q-criterion isosurfaces at q = 0.01.</em>
-</p>
