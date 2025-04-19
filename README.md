@@ -26,10 +26,9 @@ My research methodology draws upon the following tools and techniques:
 - **Laser-Induced Fluorescence (LIF)** and **Particle Image Velocimetry (PIV)**
 - **Machine Learning** for developing surrogate and multi-fidelity models
 
-## 🔗 Featured Repositories
+## Featured Repositories
 
-- [buoyant_jet](https://github.com/HydroCFD/buoyant_jet):  
-  A collection of research materials from my PhD work on thermal and saline buoyant jets. Includes:
+- A collection of research materials from my PhD work on thermal and saline [buoyant_jet](https://github.com/HydroCFD/buoyant_jet):
   - Gmsh mesh generation scripts
   - OpenFOAM case setups for RANS and LES
   - NEK5000 case setups for DNS
