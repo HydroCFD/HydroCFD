@@ -3,7 +3,7 @@
 I am a researcher specializing in **fluid mechanics, environmental hydraulics, and computational modeling**, with expertise in both experimental and numerical approaches. My PhD research focuses on **thermal and saline buoyant jets**, exploring the interaction of environmental discharges with ambient.
 
 <p align="center">
-  <img src="images/DNS2.jpeg" alt="Alt Text" width="600"/>
+  <img src="images/DNS1.jpeg" alt="Alt Text" width="600"/>
   <br>
   <em>Figure: Cross section of q-criterion isosurfaces at q = 0.01.</em>
 </p>
