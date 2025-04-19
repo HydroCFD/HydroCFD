@@ -9,7 +9,7 @@ I am a researcher specializing in **fluid mechanics, environmental hydraulics, a
         <img src="images/DNS1.jpeg" alt="DNS Isosurfaces" width="500"/>
       </td>
       <td align="center">
-        <img src="images/temp_fr15.jpg" alt="Velocity Field Fr=15" width="300"/>
+        <img src="images/vel_fr15.jpg" alt="Velocity Field Fr=15" width="300"/>
       </td>
     </tr>
     <tr>
