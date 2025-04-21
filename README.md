@@ -1,6 +1,8 @@
 # Hi, I'm Danial Goodarzi
 
+<p align="justify">
 I am a researcher specializing in **fluid mechanics, environmental hydraulics, and computational modeling**, with expertise in both experimental and numerical approaches. My PhD research focuses on **thermal and saline buoyant jets**, exploring the interaction of environmental discharges with ambient.
+</p>
 
 <p align="center">
   <table>
