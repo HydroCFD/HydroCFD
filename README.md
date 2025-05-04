@@ -23,7 +23,7 @@ I am a researcher specializing in <strong>fluid mechanics, environmental hydraul
 </p>
 
 <p align="center">
-  <img src="images/fingering-regime1.gif" alt="Fingering Regime Visualization" width="600"/>
+  <img src="images/fingering_regime.gif" alt="Fingering Regime Visualization" width="600"/>
   <br>
   <em>Figure: Fingering regime observed in the experimental discharge.</em>
 </p>
