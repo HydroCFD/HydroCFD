@@ -22,6 +22,12 @@ I am a researcher specializing in <strong>fluid mechanics, environmental hydraul
   </table>
 </p>
 
+<p align="center">
+  <img src="images/fingering-regime1.gif" alt="Fingering Regime Visualization" width="600"/>
+  <br>
+  <em>Figure: Fingering regime observed in the experimental discharge.</em>
+</p>
+
 My research methodology draws upon the following tools and techniques:
 
 - **Direct Numerical Simulation (DNS)** and **Large Eddy Simulation (LES)**
